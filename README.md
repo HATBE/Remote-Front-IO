@@ -1,3 +1,5 @@
+Preview: https://www.youtube.com/watch?v=EMnoliWCj2E
+
 sudo apt update && sudo apt upgrade
 
 apit install git -y \
