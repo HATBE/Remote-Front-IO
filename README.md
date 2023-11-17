@@ -1,4 +1,18 @@
-Preview: https://www.youtube.com/watch?v=EMnoliWCj2E
+# Preview
+
+Youtube: https://www.youtube.com/watch?v=EMnoliWCj2E
+
+## Screenshots
+
+GUI
+
+![](./.img/gui.png)
+
+Diagram
+
+![](./.img/dia.png)
+
+# Installation
 
 sudo apt update && sudo apt upgrade
 
