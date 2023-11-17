@@ -6,13 +6,17 @@ Youtube: https://www.youtube.com/watch?v=EMnoliWCj2E
 
 GUI
 
-![](./.img/gui.png)
+![GUI](./.img/gui.png)
+
+Hardware
+
+![Hardware](./.img/hardware.png)
 
 Diagram
 
-![](./.img/dia.png)
+![Diagram](./.img/dia.png)
 
-# Installation
+# Setup
 
 sudo apt update && sudo apt upgrade
 
