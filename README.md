@@ -1,20 +1,35 @@
-# Preview
+## Key Features
 
-Youtube: https://www.youtube.com/watch?v=EMnoliWCj2E
+- Remote start / stop and restart of a Computer.
 
-## Screenshots
+## Detailed Features
 
-GUI
+### Composition and Architecture
 
-![GUI](./.img/gui.png)
+This IoT (Internet of Things) device is engineered using an integrative approach that combines PHP, JavaScript, and Python. At its core, it utilizes a Raspberry Pi (4B model) as the primary computing unit.
 
-Hardware
+An Apache web server is installed on the Raspberry Pi, supporting PHP. Users can interact with the device through a frontend interface developed in HTML, CSS, and JavaScript. This user-friendly interface features an array of functional buttons for efficient control.
 
-![Hardware](./.img/hardware.png)
+<br>
+Function drawing:
 
-Diagram
+![](./.img/2.png)
 
-![Diagram](./.img/dia.png)
+### User Interface and Control
+
+You can access the webinterface from every browser.
+on the webinter face you have a power button, a 5s power button, a reset button and a power led.
+
+![](./.img/1.png)
+
+Hardware:
+
+![](./.img/3.png)
+
+
+---
+
+For an in-depth exploration and understanding of this web application, please refer to the build vlog and review available on YouTube. The source code is accessible for review and contribution on GitHub.
 
 # Setup
 
